@@ -13,7 +13,7 @@ Porous structural materials with well-defined periodicity are ubiquitous not onl
 ## Abstract
 
 <div style="text-align: justify"> 
-TBD
+    Porous materials with well-defined periodicity are commonly encountered in biological and synthetic structures and exhibit a wide range of behaviors, ranging from negative Poisson's ratios, to high energy absorption and acoustic damping. Recently, the response of these systems has been shown to be enhanced by mechanical instabilities that lead to sudden and reversible geometric transformations. Although buckling induces planar transformations in most of 2D porous metematerials, here we describe the emerging of 3D morphologies triggered by mechanical instabilities in an elastomeric block with tilted cylindrical holes. As a proof of concept, we also demonstrate that these structures can be leveraged to tune surface properties including friction and light reflection, thus providing a new experimental platform for investigating deformation-dependant dynamics for tribological and optical applications.
 
 </div>
 
