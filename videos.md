@@ -5,3 +5,10 @@
 <!-- {% include youtubePlayer.html id="u16FjNGMoEs?autoplay=1" %} -->
 
 {% include youtubePlayer.html id="bObdPHAoZUk" %}
+ <iframe src="https://www.youtube.com/embed/bObdPHAoZUk" 
+    width="100%" 
+    height="315"
+    frameborder="0" 
+    allow="autoplay; encrypted-media"
+    allowfullscreen>
+</iframe> 
