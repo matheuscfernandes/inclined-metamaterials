@@ -1,6 +1,6 @@
 # Supplementary Videos
 
-[Back to Main](./)
+<span style="font-size:larger;">[Back to Main](./)</span>
 
 <p>&nbsp;</p>
 
