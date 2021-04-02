@@ -4,6 +4,11 @@
 
 <p>&nbsp;</p>
 
+## Intro
+
+Page outlining supplementary videos. Additioal related videos can be found [this playlist](http://fer.me/inclined-videos)
+
+
 <!-- {% include youtubePlayer.html id="u16FjNGMoEs?autoplay=1" %} -->
 ## Supplementary Video 1
 <p style="text-align: center;">
