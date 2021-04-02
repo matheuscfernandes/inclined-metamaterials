@@ -6,7 +6,7 @@
 
 ## Intro
 
-Page outlining supplementary videos. Additioal related videos can be found [this playlist](http://fer.me/inclined-videos)
+Page outlining supplementary videos. Additioal related videos can be found [this playlist](http://fer.me/incline-videos)
 
 
 <!-- {% include youtubePlayer.html id="u16FjNGMoEs?autoplay=1" %} -->
