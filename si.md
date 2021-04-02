@@ -1,4 +1,4 @@
-# Supplementary Videos
+# Supplementary Information
 
 <span style="font-size:larger;">[Back to Main](./)</span>
 
