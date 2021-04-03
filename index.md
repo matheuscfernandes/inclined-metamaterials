@@ -21,7 +21,7 @@ Porous structural materials with well-defined periodicity are ubiquitous not onl
 
 All supporting videos can be found here: [VIDEOS](./videos)
 
-All supporting information can be found here: [Supporting Information](./si)
+All supporting information can be found here: [SUPPLEMENTARY INFORMATION](./si)
 
 
 ## Code and Data
