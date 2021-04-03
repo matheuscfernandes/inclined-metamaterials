@@ -72,7 +72,7 @@ Page outlining supplementary videos. Additioal related videos can be found [this
 
 ## Supplementary Video 6
 <p style="text-align: center;">
- <iframe src="https://www.dropbox.com/s/xv6bdd9q9ls37gm/Fig6.mp4?raw=1" 
+ <iframe src="https://www.dropbox.com/s/wrd10ign3cqode6/Fig6_Final.mp4?raw=1" 
     width="100%" 
     height="315"
     frameborder="0" 
