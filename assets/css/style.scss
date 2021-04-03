@@ -4,8 +4,8 @@
 @import "jekyll-theme-minimal";
 
 .header-link {
-    position: absolute;
-    right: 0.5em;
+    position: relative;
+    left: -100px;
     opacity: 0;
   
     \-webkit-transition: opacity 0.2s ease-in-out 0.1s;
