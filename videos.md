@@ -12,7 +12,7 @@ Page outlining supplementary videos. Additioal related videos can be found [this
 <!-- {% include youtubePlayer.html id="u16FjNGMoEs?autoplay=1" %} -->
 ## Supplementary Video 1
 <p style="text-align: center;">
- <iframe src="https://www.dropbox.com/sh/2hitsxb550oqpy3/AAAeQ3ErDg2KdLPlrqRjsZhba?raw=1" 
+ <iframe src="https://www.dropbox.com/sh/2hitsxb550oqpy3/AABiIV3d-WCOZHl5FqJmmVHra/Fig1.mp4?raw=1" 
     width="100%" 
     height="315"
     frameborder="0" 
