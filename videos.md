@@ -12,7 +12,7 @@ Page outlining supplementary videos. Additioal related videos can be found [this
 <!-- {% include youtubePlayer.html id="u16FjNGMoEs?autoplay=1" %} -->
 ## Supplementary Video 1
 <p style="text-align: center;">
- <iframe src="https://www.dropbox.com/sh/2hitsxb550oqpy3/AABiIV3d-WCOZHl5FqJmmVHra/Fig1.mp4?raw=1" 
+ <iframe src="https://www.dropbox.com/s/f6wg0811bn5zjom/Fig1.mp4?raw=1" 
     width="100%" 
     height="315"
     frameborder="0" 
@@ -24,7 +24,7 @@ Page outlining supplementary videos. Additioal related videos can be found [this
 
 ## Supplementary Video 2
 <p style="text-align: center;">
- <iframe src="https://www.dropbox.com/sh/2hitsxb550oqpy3/AADnwnWyJDxqQmj8IpkxQwZZa/Fig2_DiffAngleDeploy.mp4?raw=1" 
+ <iframe src="https://www.dropbox.com/s/ta9gt3p9xxfzepo/Fig2_DiffAngleDeploy.mp4?raw=1" 
     width="100%" 
     height="315"
     frameborder="0" 
@@ -36,7 +36,7 @@ Page outlining supplementary videos. Additioal related videos can be found [this
 
 ## Supplementary Video 3
 <p style="text-align: center;">
- <iframe src="https://www.dropbox.com/sh/2hitsxb550oqpy3/AABQJzGbHQSqDsx3_38qeoB_a/Fig3_LightReflection.mp4?raw=1" 
+ <iframe src="https://www.dropbox.com/s/968ozq8nbmf1hc2/Fig3_LightReflection.mp4?raw=1" 
     width="100%" 
     height="315"
     frameborder="0" 
@@ -48,7 +48,7 @@ Page outlining supplementary videos. Additioal related videos can be found [this
 
 ## Supplementary Video 4
 <p style="text-align: center;">
- <iframe src="https://www.dropbox.com/sh/2hitsxb550oqpy3/AADc-Qb724HWr0C15uKMnjY6a/Fig4_Friction.mp4?raw=1" 
+ <iframe src="https://www.dropbox.com/s/kt8t4cck9kuu1qs/Fig4_Friction.mp4?raw=1" 
     width="100%" 
     height="315"
     frameborder="0" 
@@ -60,7 +60,7 @@ Page outlining supplementary videos. Additioal related videos can be found [this
 
 ## Supplementary Video 5
 <p style="text-align: center;">
- <iframe src="https://www.dropbox.com/sh/2hitsxb550oqpy3/AADR8cKcLj_r-xqCypegZxDFa/Fig5_Robot.mp4?raw=1" 
+ <iframe src="https://www.dropbox.com/s/snwycpcyefibgxx/Fig5_Robot.mp4?raw=1" 
     width="100%" 
     height="315"
     frameborder="0" 
@@ -72,7 +72,7 @@ Page outlining supplementary videos. Additioal related videos can be found [this
 
 ## Supplementary Video 6
 <p style="text-align: center;">
- <iframe src="https://www.dropbox.com/sh/2hitsxb550oqpy3/AADKmHwfmO0uizKwpTF-FZMza/Fig6.mp4?raw=1" 
+ <iframe src="https://www.dropbox.com/s/xv6bdd9q9ls37gm/Fig6.mp4?raw=1" 
     width="100%" 
     height="315"
     frameborder="0" 
