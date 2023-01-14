@@ -36,4 +36,4 @@ The repository is devided into two sections:
 
 3. [Fluid Cavity Models](https://github.com/matheuscfernandes/inclined-metamaterials/tree/master/PressureCavityModel) 
 
-If there are additional suggested changes or improvements to the code, please submit a GitHub pull request and email me at [(fernandes@seas.harvard.edu)](mailto:fernandes@seas.harvard.edu).
+If there are additional suggested changes or improvements to the code, please submit a GitHub pull request and contact me at [contact](https://fer.me/cont).
